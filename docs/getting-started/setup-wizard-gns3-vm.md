@@ -228,7 +228,7 @@ An Idle-PC value is displayed. Click **'OK'** to complete:
 <img alt="screenshot" src={useBaseUrl('img/getting-started/setup-wizard-gns3-vm/37.jpg')} />
 
 :::important
-If no Idle-PC value is displayed, try clicking the ‘Idle-PC finder’ button again. You may also need to reboot your computer and try again is no value is found.
+If no Idle-PC value is displayed, try clicking the ‘Idle-PC finder’ button again. You may also need to reboot your computer and try again if no value is found.
 :::
 
 Click **'Finish'** to complete the GNS3 Setup Wizard.     
